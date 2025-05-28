@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/35b922ba-7e45-4d03-a866-ee7ce9c3c526
 
 
 <p align="center">
- <img width="550px" src="1.png" alt="qr"/>
+ <img width="700px" src="1.png" alt="qr"/>
 </p>
 
 <p align="center">
@@ -26,5 +26,5 @@ https://github.com/user-attachments/assets/35b922ba-7e45-4d03-a866-ee7ce9c3c526
 </p>
 
 <p align="center">
- <img width="550px" src="6.png" alt="qr"/>
+ <img width="700px" src="6.png" alt="qr"/>
 </p>
